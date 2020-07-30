@@ -71,6 +71,6 @@ public class Admob_v2 : MonoBehaviour {
 	}
 
 	void OnDestroy ( ) {
-		RewardAdEvents();
+		RemoveRewardAdEvents();
 	}
 }
