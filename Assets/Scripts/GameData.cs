@@ -5,7 +5,7 @@ public static class GameData {
 	private static int _gems = 0;
 
 	// The static Constructor is the best place
-	// load the already saved data in a file or in PlayerPrefs.
+	// to load already saved data in a file or in PlayerPrefs.
 	static GameData ( ) {
 		_coins = PlayerPrefs.GetInt ( "Coins", 0 );
 		_gems = PlayerPrefs.GetInt ( "Gems", 0 );
