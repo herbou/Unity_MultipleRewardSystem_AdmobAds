@@ -1,7 +1,7 @@
 # How to make Parchisi game Reward system in Unity with Admob Ads
 
 Click on the image bellow to watch the video tutorial:
-<a href="https://www.youtube.com/watch?v=-ck6idM3htY"><img height="300" src="http://www.mediafire.com/convkey/04ae/aompzlxbnw4h8y0zg.jpg" /></a>
+<a href="https://www.youtube.com/watch?v=-ck6idM3htY"><img align="left" height="300" src="http://www.mediafire.com/convkey/04ae/aompzlxbnw4h8y0zg.jpg" /></a>
 
 
 <br><br><br>
